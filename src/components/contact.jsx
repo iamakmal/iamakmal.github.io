@@ -9,8 +9,6 @@ import { useMediaQuery } from '@mui/material';
 import emailjs from "@emailjs/browser"
 import contact from "../assets/contact.jpg"
 import banner from '../assets/banner.png'
-import { alignProperty } from '@mui/material/styles/cssUtils'
-import { display, margin } from '@mui/system'
 
 function Contact() {
     const [name, setName] = useState('')
