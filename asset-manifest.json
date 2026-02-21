@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.56e0606c.css",
-    "main.js": "/static/js/main.e82e1a7f.js",
+    "main.js": "/static/js/main.d7ee0312.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/exam.png": "/static/media/exam.04dd1950da5c3bbe05b5.png",
     "static/media/strawberry.png": "/static/media/strawberry.e16c7ed53f61f2ac1441.png",
@@ -19,8 +19,8 @@
     "static/media/python.png": "/static/media/python.0ad1d1fe012e3d44ea49.png",
     "static/media/contact.jpg": "/static/media/contact.57760c3526f2b349fa59.jpg",
     "static/media/vscode.png": "/static/media/vscode.8aba4e9b089dd5d38ba5.png",
+    "static/media/cv.pdf": "/static/media/cv.157b7a99d49901405fde.pdf",
     "static/media/spring.png": "/static/media/spring.627b2285f676a12f2333.png",
-    "static/media/cv.pdf": "/static/media/cv.9aa172eef7d7e1b4b9da.pdf",
     "static/media/landsale.jpg": "/static/media/landsale.592d8fb436eea6d1d1fc.jpg",
     "static/media/discussion.png": "/static/media/discussion.610d6d8c39b773fec5a1.png",
     "static/media/csharp.png": "/static/media/csharp.e7019c914b687752fa59.png",
@@ -44,11 +44,11 @@
     "static/media/js.png": "/static/media/js.8c9dfb1374a78946b53d.png",
     "index.html": "/index.html",
     "main.56e0606c.css.map": "/static/css/main.56e0606c.css.map",
-    "main.e82e1a7f.js.map": "/static/js/main.e82e1a7f.js.map",
+    "main.d7ee0312.js.map": "/static/js/main.d7ee0312.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e0606c.css",
-    "static/js/main.e82e1a7f.js"
+    "static/js/main.d7ee0312.js"
   ]
 }
