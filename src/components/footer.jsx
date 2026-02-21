@@ -36,12 +36,15 @@ function Footer() {
               </Typography>
               <Typography variant="body1" color="text.secondary">
                 Email:{" "}
-                <a href="mailto:m.akmalalavi@gmail.com">
+                <a href="mailto:m.akmalalavi@gmail.com" style={{ textDecoration: 'none' }}>
                   m.akmalalavi@gmail.com
                 </a>
               </Typography>
               <Typography variant="body1" color="text.secondary">
-                Phone: <a href="tel:+94761136787">+94 76 113 6787</a>
+                Phone:{" "}
+                <a href="tel:+94761136787" style={{ textDecoration: 'none' }}>
+                  +94 76 113 6787
+                </a>
               </Typography>
             </Grid>
             <Grid item xs={12} sm={4}>
