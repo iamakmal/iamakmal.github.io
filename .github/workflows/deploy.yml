@@ -34,7 +34,10 @@ jobs:
         run: npm install
 
       - name: Debug Environment Variables
-        run: printenv | grep REACT_APP
+        run: |
+          echo "Service ID is set: ${{ secrets.REACT_APP_EMAILJS_SERVICE_ID != '' }}"
+          echo "Template ID is set: ${{ secrets.REACT_APP_EMAILJS_TEMPLATE_ID != '' }}"
+          echo "Public Key is set: ${{ secrets.REACT_APP_EMAILJS_PUBLIC_KEY != '' }}"
 
       - name: Build project
         run: npm run build
