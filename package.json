@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://iamakmal.github.io/portfolio",
+  "homepage": "https://iamakmal.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
